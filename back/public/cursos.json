@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "nome": "Tecnologia em Sistemas para Internet",
+    "semestres": 5,
+    "coordenador": "Joice"
+  },
+  {
+    "id": 2,
+    "nome": "Bacharelado em Sistemas de Informação",
+    "semestres": 8,
+    "coordenador": "Aujor"
+  }
+  
+]

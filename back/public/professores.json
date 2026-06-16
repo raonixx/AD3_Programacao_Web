@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nomeProfessor": "Rafael",
+    "emailProfessor": "rafael.speroni@ifc.edu.br",
+    "sala": "A-01"
+  },
+  {
+    "id": 2,
+    "nomeProfessor": "Aujor",
+    "emailProfessor": "aujor@ifc.edu.br",
+    "sala": "B-01"
+  },
+  {
+    "id": 3,
+    "nomeProfessor": "Joice",
+    "emailProfessor": "joice@ifc.edu.br",
+    "sala": "C-01"
+  },
+  {
+    "id": 4,
+    "nomeProfessor": "Maria",
+    "emailProfessor": "maria@ifc.edu.br",
+    "sala": "D-01"
+  },
+  {
+    "id": 5,
+    "nomeProfessor": "Pedro",
+    "emailProfessor": "pedro@ifc.edu.br",
+    "sala": "A-02"
+  }
+]
