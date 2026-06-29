@@ -1,0 +1,59 @@
+### GET todos os cursos
+GET http://localhost:3000/cursos
+
+### GET curso por id
+GET http://localhost:3000/cursos/1
+
+### POST curso
+POST http://localhost:3000/cursos
+Content-Type: application/json
+
+{
+  "nome": "Curso Teste",
+  "sigla": "CT",
+  "descricao": "Curso de teste",
+  "id_coordenador": 1
+}
+
+### PUT curso
+PUT http://localhost:3000/cursos/1
+Content-Type: application/json
+
+{
+  "nome": "Curso Atualizado",
+  "sigla": "CA",
+  "descricao": "Curso atualizado",
+  "id_coordenador": 1
+}
+
+### DELETE curso
+DELETE http://localhost:3000/cursos/1
+
+### GET todos os professores
+GET http://localhost:3000/professores
+
+### GET professor por id
+GET http://localhost:3000/professores/1
+
+### POST professor
+POST http://localhost:3000/professores
+Content-Type: application/json
+
+{
+  "nome": "Professor Teste",
+  "email": "professor@exemplo.com",
+  "sala": "A101"
+}
+
+### PUT professor
+PUT http://localhost:3000/professores/1
+Content-Type: application/json
+
+{
+  "nome": "Professor Atualizado",
+  "email": "professor.atualizado@exemplo.com",
+  "sala": "B202"
+}
+
+### DELETE professor
+DELETE http://localhost:3000/professores/1
